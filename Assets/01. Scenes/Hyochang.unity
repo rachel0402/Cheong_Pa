@@ -2416,10 +2416,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: landscape (1)
       objectReference: {fileID: 0}
-    - target: {fileID: 8595959420071071578, guid: 27633c236cdd3ce4188e685c6fcbfc2e, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 69499d3c78922d54bb75071c984340c4, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 27633c236cdd3ce4188e685c6fcbfc2e, type: 3}
 --- !u!1001 &472407784
