@@ -11,9 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/01. Scenes/CheongPa.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
-    path: Assets/01. Scenes/Hyochang.unity
-    guid: c0775f3473540404fad42f0f0964824e
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/01. Scenes/Namsan.unity
     guid: afef1656114c12949a28c9593c1b09a7
