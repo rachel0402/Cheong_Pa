@@ -17,4 +17,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/01. Scenes/Namsan.unity
     guid: afef1656114c12949a28c9593c1b09a7
+  - enabled: 0
+    path: Assets/01. Scenes/Hyochang.unity
+    guid: 9339eae3f16447c4e9467d1f12e611c8
+  - enabled: 1
+    path: Assets/01. Scenes/HyochangPark.unity
+    guid: 7bbf08f98d0b8694daa32b8ba68a8152
   m_configObjects: {}
